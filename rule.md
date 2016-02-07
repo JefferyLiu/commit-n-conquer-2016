@@ -34,5 +34,5 @@
 * 总 [Contributors](https://github.com/scau-sidc/commit-n-conquer-2016/graphs/contributors) 达到 16 人这个活动方为有效.  
 * 多次提交以收款id进行排重, 仅计算最高奖金, 不累计.  
 * 仅 master 分支的 commit 为有效参与, 且 **排除 merge commit**.  
-* 战斗规则是 Free-Fight, 也就是说: 暴力尝试/强制推送复写对手的提交/使用git的底层指令伪造SHA1ID/租用天河一号运算必胜解 等手段都是合法的, 只要不会被 Github 官方封号的行为都予以认可. (大概就是中忍选拔考试的笔试的样子嗯  
+* 战斗规则是 Free-Fight, 也就是说: 暴力尝试/强制推送复写对手的提交/使用git的底层指令伪造SHA1ID/租用天河二号运算必胜解 等手段都是合法的, 只要不会被 Github 官方封号的行为都予以认可. (大概就是中忍选拔考试的笔试的样子嗯  
 * 新的一年也来一起愉快地玩耍吧!!  
